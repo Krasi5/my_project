@@ -1,4 +1,0 @@
-Procfile
-        web: gunicorn her_project.wsgi
-
-
